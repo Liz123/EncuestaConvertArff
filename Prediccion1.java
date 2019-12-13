@@ -53,7 +53,7 @@ import weka.core.Instances;
 //import javax.swing.JOptionPane;
 /**
  *
- * @author rigin
+ * @author liz
  */
 public class Prediccion1 extends javax.swing.JFrame {
         /*Conexion con = new Conexion();
